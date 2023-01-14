@@ -1,0 +1,129 @@
+{
+  "GuideData": {
+    "AdsController": 
+      {
+        "BannerAd": "admob",
+		"InterstitialAd": "admob",
+        "NativeAd": "admob",
+		
+		"BannerAdmob": "ca-app-pub-7724318695843695/2970141674",
+        "InterstitialAdmob": "ca-app-pub-7724318695843695/9014210815",
+        "NativeAdmob": "ca-app-pub-7724318695843695/8822639125",
+
+        "BannerFacebook": "",
+        "InterstitialFacebook": "",
+        "NativeFacebook": "",
+
+		"maxBanner": "f7a5525108c00ac0",
+		"maxInterstitial": "5fa0efbeea673f05",
+		"maxNative": "bf83265395b54ba8",
+		
+		"ironsource_appKey": "",
+		
+		"unity_game_id": "",
+		"unity_test": true,
+		"unity_banner": "banner",
+		"unity_interstitial": "video",
+
+        "ImageBanner": false,
+        "ImageBannerImg" : "",
+        "ImageBannerURL" : ""
+		
+      },
+
+    "items": [
+      {
+        "title": "Play Merge Alphabet",
+        "image": "https://i.imgur.com/a9sKel7.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Merge Alphabet: Lord Run is an arcade game developed by WeMaster. BlueStacks app player is the best platform to play this Android game on your PC or Mac for an immersive gaming experience. Download Merge Alphabet: Lord Run on PC and enjoy a crazily hilarious game of battle alphabets. Run down the aisle, collect the same alphabet, and merge them to increase your power. Reach the enemy at the end of the road and destroy them. Are you ready to have some fun? Download Merge Alphabet: Lord Run on PC now.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Pobreflix for a break",
+        "image": "https://i.imgur.com/CO2V1EO.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "As Netflix went mainstream, many other paid streaming platforms appeared one after another. While this is great because it has unique features, it is very expensive for some people, especially those who live in third world countries.\n\nThat's why Pobreflix was born! This is not a paid streaming app, but you can watch movies and shows by providing links! It searches the internet to provide you with all the movies and shows. Plus, you can access history, watch your videos, add them to Chromecast, download videos and much more! There are numerous categories to choose from and you will also be notified of new releases! Now you don't just have to pay a penny for the flow!",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Lord Run on PC",
+        "image": "https://i.imgur.com/GRBJL5q.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Battle to become the Alphabet lord in this fun game. Create a powerful alphabet monster by collecting and merging the same alphabet. Boost your strength and have a higher chance of destroying the evil boss at the end of the road. Collect as many same alphabets as you can carry and form a squad of battle letters. This game is easy and fun to play with hilarious animated characters to keep you playing for a long while. Collect keys and avoid the obstacles on your way. Use the keys to unlock new alphabet characters and destroy the enemies. Earn lots of coins and learn more about the alphabet story.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Lighthearted obstacle course game",
+        "image": "https://i.imgur.com/pJMDX0g.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Merge Alphabetis a lighthearted obstacle course gamefeaturing minimalist 3D graphics where letters become fierce warriors. Your mission is to recruit and merge letters to form an invincible army. Assemble a linguistic squadron",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+     {
+        "title": "Merge Alphabet 2D Fusion Fight",
+        "image": "https://i.imgur.com/OqEAcVk.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Do you ever wonder if ABC evolve, what would they look like in 2D world? All answers are here in this fusion game!!! Are you ready to lead your alphabet army to glorious victory? ",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "HOW TO PLAY",
+        "image": "https://i.imgur.com/vCsDY0s.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Match and upgrade letters to become the Merge Master: - Combine similar letters to evolve. - Strategically arrange your alphabet army to defend your land. - Unlock new characters by matching them. Be wise or be a loser? It depends on your choice and your smart tactics. Try out the merging battle arena in Merge Alphabet 2D Fusion Fight Lore now!!",
+        "isNative": false,
+		"background": "#FFFFFF"
+      },
+      {
+        "title": "Cons",
+        "image": "https://i.imgur.com/SIqZC3x.jpg",
+        "color": "#000000",
+        "text_size": "25",
+        "isLink": false,
+		"link_title": "",
+		"setLink": "",
+        "image_link": "",
+        "text": "Downloading apps from third-party sources are not usually checked by Google. So it can be harmful to your phone.\nAPK files may contain viruses that steal data from your phone or damage your phone.\nYour apps won't automatically update because they don't usually have access to the Google Play Store.",
+        "isNative": false,
+		"background": "#FFFFFF"
+      }
+    ]
+
+  }
+}
